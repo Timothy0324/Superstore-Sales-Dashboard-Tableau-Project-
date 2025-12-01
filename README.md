@@ -55,7 +55,7 @@ Retail managers and marketing teams need to:
 
 | Dashboard | Preview |
 |----------|---------|
-| **Record Count & Sales by Product** | ![Product Sales Bar](screenshots/sales_by_product.png) |
+| **PA Category Sales_Dashboard** | ![PA Category Sales_Dashboard](https://github.com/Timothy0324/Superstore-Sales-Dashboard-Tableau-Project-/blob/main/Dashboards%20Images/PA%20Category%20Sales_Dashboard.png) |
 | **Category Monthly Crosstab** | ![Monthly Crosstab](screenshots/category_sales_crosstab.png) |
 | **Running Total Sales Trend** | ![Running Total](screenshots/running_total_sales.png) |
 | **Sales Distribution Pie** | ![Pie Chart](https://github.com/Timothy0324/Superstore-Sales-Dashboard-Tableau-Project-/blob/main/Dashboards%20Images/Sales%20Distribution%20Pie%20Chart.png) |
