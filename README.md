@@ -12,7 +12,7 @@ This Tableau project explores Superstore sales performance from 2021 to 2024. Th
 - **State-wise delivery lead times**
 - **Top-selling items and seasonal patterns**
 - **Category-wise contribution to revenue**
-- 
+
 It is designed to help business stakeholders identify key sales drivers and regional bottlenecks to improve operations and marketing strategies.
 
 ---
