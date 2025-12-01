@@ -3,16 +3,21 @@ This Tableau project analyzes sales performance, product-level trends, and shipp
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
-- **Dataset**: U.S. Superstore sales data (132 records)
-- **Goal**: Identify key sales trends, category growth, product contribution, and state-level shipping lead times
-- **Tools Used**: Tableau (Data visualization), Excel (Preprocessing)
-- **Target Users**: Data Analysts, Marketing Analysts, Operations Teams
+This Tableau project explores Superstore sales performance from 2021 to 2024. The dashboard analyzes:
+
+- **Total sales by product and category**
+- **Monthly and yearly trends**
+- **State-wise delivery lead times**
+- **Top-selling items and seasonal patterns**
+- **Category-wise contribution to revenue**
+- 
+It is designed to help business stakeholders identify key sales drivers and regional bottlenecks to improve operations and marketing strategies.
 
 ---
 
-## ❓ Business Problem
+## Business Problem
 
 Retail managers and marketing teams need to:
 
@@ -23,7 +28,7 @@ Retail managers and marketing teams need to:
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 - Data wrangling and preprocessing in Excel
 - Built interactive dashboards in Tableau:
@@ -35,7 +40,7 @@ Retail managers and marketing teams need to:
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Visualization
 - Dashboard Design
@@ -57,11 +62,11 @@ Retail managers and marketing teams need to:
 | **Lead Time Heatmap by State** | ![Lead Time Crosstab](screenshots/state_leadtime_heatmap.png) |
 | **US State Avg Lead Time Map** | ![Map](screenshots/state_avg_leadtime_map.png) |
 
-> 📌 _Images are for preview only. For full interactivity, open in Tableau._
+> _Images are for preview only. For full interactivity, open in Tableau._
 
 ---
 
-## 📈 Results & Business Recommendations
+## Results & Business Recommendations
 
 - **Top-Selling Product**: Grapefruit (Bag) shows the highest sales volume.
 - **Consistent Revenue**: Technology category drives 36% of total sales.
@@ -70,9 +75,9 @@ Retail managers and marketing teams need to:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
-- Apply predictive forecasting to anticipate Q4 sales.
+- Apply predictive forecasting to anticipate future sales.
 - Drill down on customer segment behavior.
 - Connect with real-time inventory or shipping data.
 - Integrate dashboard into executive reporting portal.
