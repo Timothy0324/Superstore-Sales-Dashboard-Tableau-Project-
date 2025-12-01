@@ -70,7 +70,7 @@ View all the images Tableaus files here:
 
 - **Top-Selling Product**: Grapefruit (Bag) shows the highest sales volume.
 - **Consistent Revenue**: Technology category drives 36% of total sales.
-- **Regional Inefficiencies**: Lead times vary widely — shipping optimization is needed in states like Georgia and Nevada.
+- **Regional Inefficiencies**: Lead times vary widely. Shipping optimization is needed in states like Minnesota and Nevada.
 - **Sales Momentum**: Strong upward trend in running total sales, especially Q3.
 
 ---
