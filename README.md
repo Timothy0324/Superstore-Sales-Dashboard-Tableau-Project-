@@ -61,7 +61,7 @@ Retail managers and marketing teams need to:
 > _Images are for preview only. For full interactivity, open in Tableau._
 > 
 View all the images Tableaus files here:  
-👉 [All Images Output](https://github.com/Timothy0324/Superstore-Sales-Dashboard-Tableau-Project-/tree/main/Dashboards%20Images)
+👉 [All Images Output](https://github.com/Timothy0324/Superstore-Sales-Dashboard-Tableau-Project-/tree/main/Dashboards%20Images)  
 👉 [All Tableau Files](https://github.com/Timothy0324/Superstore-Sales-Dashboard-Tableau-Project-/tree/main/Tableau%20Files)
 
 ---
