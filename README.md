@@ -58,7 +58,7 @@ Retail managers and marketing teams need to:
 | **Record Count & Sales by Product** | ![Product Sales Bar](screenshots/sales_by_product.png) |
 | **Category Monthly Crosstab** | ![Monthly Crosstab](screenshots/category_sales_crosstab.png) |
 | **Running Total Sales Trend** | ![Running Total](screenshots/running_total_sales.png) |
-| **Sales Distribution Pie** | ![Pie Chart](screenshots/pie_chart.png) |
+| **Sales Distribution Pie** | ![Pie Chart](Sales Distribution Pie Chart.png) |
 | **Lead Time Heatmap by State** | ![Lead Time Crosstab](screenshots/state_leadtime_heatmap.png) |
 | **US State Avg Lead Time Map** | ![Map](screenshots/state_avg_leadtime_map.png) |
 
